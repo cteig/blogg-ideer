@@ -26,7 +26,7 @@ for the most common Azure resources, dramatically simplifying infrastructure pro
 see their changes in action without manual intervention.
 
 These automation improvements transformed the developer experience. What once required numerous manual steps and coordination with the platform team could now be accomplished 
-through self-service capabilities, letting developers focus on creating value rather than managing deployment logistics.
+through self-service capabilities, letting developers focus on creating value rather than managing deployment logistics. The Speed-platform is born - "Service Platform Enabling Efficient Delivery"
 
 ## Agility in Technology Choices
 
