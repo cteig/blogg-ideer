@@ -1,4 +1,5 @@
-# Møller Digital's Speed Platform: Accelerating Cloud Adoption Through A Selv-service Platform
+
+# Møller Digital's Speed Platform: A Journey of Transformation Through Self-Service Cloud Platform
 
 Before 2022, deploying new code changes to customers at Møller Digital was a lengthy process that often took several weeks to complete. 
 Development teams faced significant bottlenecks, infrastructure dependencies, and manual processes that hindered innovation and responsiveness. 
