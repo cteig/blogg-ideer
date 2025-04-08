@@ -20,7 +20,7 @@ we celebrated a significant achievement: the first application was running in pr
 
 ## From Manual Steps to Seamless Automation
 
-In the early days of Speed, developers had to perform several manual steps to deploy their applications to the platform. While functional, this approach was still time-consuming 
+In the early days of the application platform, developers had to perform several manual steps to deploy their applications to the platform. While functional, this approach was still time-consuming 
 and prone to human error. However, continuous improvement was built into our platform philosophy.  Throughout 2023, we systematically eliminated these manual processes. We developed reusable Terraform modules 
 for the most common Azure resources, dramatically simplifying infrastructure provisioning. The platform evolved to support auto-deployment to test environments, allowing developers to 
 see their changes in action without manual intervention.
